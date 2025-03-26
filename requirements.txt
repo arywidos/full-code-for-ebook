@@ -1,0 +1,5 @@
+langchain==0.3.20
+langchain_community==0.3.19
+langchain_ollama==0.2.3
+streamlit==1.42.2
+pyperclip==1.9.0
