@@ -2,7 +2,7 @@
 Full code for the ebook
 How to install:
 1. Copy the folder to any location you wish
-2. Extract the files.
+2. Extract the file.
 3. Open folder with visual code.
 4. Create .venv Python Environment
    Inside visual code: Ctrl+p > Type "Python:" > Select: Create Environment... <enter>
