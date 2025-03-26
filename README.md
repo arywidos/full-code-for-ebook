@@ -8,6 +8,6 @@ How to install:
    Inside visual code: Ctrl+p > Type "Python:" > Select: Create Environment... [press enter]
 5. Open new terminal: Terminal > New Terminal
 6. Activate the envoronment, inside terminal console: type "activate" [press enter]
-7. Install requirements library, inside terminal console: type "install -r requirements.txt" [enter]
+7. Install requirements library, inside terminal console: type "install -r requirements.txt" [press enter]
 8. run the app: python app.py
 9. For web version: streamlit run webapp.py
