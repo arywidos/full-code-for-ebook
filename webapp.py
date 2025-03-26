@@ -51,7 +51,7 @@ def translate_grammar_checking(question):
 
 # Create a form in the Streamlit app for user input
 with st.form('my_form'):
-    text = st.text_area('Please enter the text here, you would like me to translate (into English) or review for grammatical accuracy:')
+    text = st.text_area('Please enter the text here, you would like me to review for grammatical accuracy:')
     submitted = st.form_submit_button('Submit')  # Submit button
     if submitted:
         with st.status("Checking, please wait...", expanded=True):  # Show status while processing
